@@ -1,0 +1,22 @@
+/* CSS files --> projects.html */
+body{
+    background-color: #f2876d;
+}
+.table-menu{
+    width:100%; 
+    text-align: center;
+    background-color: #eeea10;
+}
+h1{
+    text-align: center; 
+    font-family: cursive;
+    background-color: #b5f9da;
+} 
+h4{
+    text-align: center; 
+    font-family: Aclonica; 
+    font-weight: normal;
+}
+p{
+    text-align: center;     
+}
